@@ -35,6 +35,6 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lorrana1712=tokyonight" alt="Perfil do GitHub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lorrana1712&theme=tokyonight" alt="Perfil do GitHub" /></p>
 
 ![Snake animation](https://github.com/Lorrana1712/Lorrana1712/blob/output/github-contribution-grid-snake-dark.svg)
